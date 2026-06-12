@@ -1,1 +1,1 @@
-# Jupyternotebook Related to Project
+# Jupyter notebook Related to Project
