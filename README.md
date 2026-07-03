@@ -28,6 +28,7 @@ This repository serves as an index of my data analysis projects, showcasing my l
 
 ### Tools
 - Jupyter Notebook
+- Google Colab
 - phpmyadmin
 - VS Code
 - Git
